@@ -2,7 +2,7 @@
 ⭐Deployed Link:- https://resplendent-cucurucho-20b16a.netlify.app/
 
 ---
- 💻Unique Project Name & logo :- Teddy Bear - <br> <br> ![App Screenshot](https://ibb.co/1RFHwqg/)
+ 💻Unique Project Name & logo :- Teddy Bear - <br> <br> ![App Screenshot](https://i.postimg.cc/Y0TtvCMk/Screenshot-532.png)
 ---
 Welcome to Teddy Bear, a collaborative project from Masai School's Construct Week, created by a talented team of 4 members within just 5 days. This captivating clone website of teddybaver.com brings you an enchanting selection of clothing and fashion accessories, reflecting the dedication and creativity of our team. Immerse yourself in the elegance and charm of our carefully curated collection, embracing the latest trends and timeless classics. With an intuitive interface, your shopping experience becomes seamless and delightful. Join us in celebrating the magic of fashion as we present Teddy Bear, where style and innovation intertwine in perfect harmony.
 ---
