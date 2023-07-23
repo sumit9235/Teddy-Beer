@@ -38,7 +38,7 @@ Welcome to Teddy Bear, a collaborative project from Masai School's Construct Wee
 - Intuitive and easy-to-use interface
 
 - Sorting , Filtering
-- 
+
 - Sign Up , Login 
 
 - Multi-currency support
