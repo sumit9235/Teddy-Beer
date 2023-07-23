@@ -47,32 +47,28 @@ Welcome to Teddy Bear, a collaborative project from Masai School's Construct Wee
 ## Screenshots 📷
 ---
 
-# Home Page
-
-![App Screenshot](https://ibb.co/1RFHwqg)
-
 
 # Signup | Login
 
-![App Screenshot](https://ibb.co/h8Hd5NP)
+![App Screenshot](https://i.postimg.cc/fbsT7yXR/Screenshot-729.png)
 
 # Clothing Page
 
-![App Screenshot](https://ibb.co/YybGXZB)
+![App Screenshot](https://i.postimg.cc/xjZfxtH7/Screenshot-730.png)
 
-![App Screenshot](https://ibb.co/B3vSjbH)
+![App Screenshot](https://i.postimg.cc/9FqWvZYf/Screenshot-732.png)
 
-![App Screenshot](https://ibb.co/BC05ZwP)
+![App Screenshot](https://i.postimg.cc/qRbJdGFN/Screenshot-731.png)
 
-![App Screenshot](https://ibb.co/Tq2hfSm)
+![App Screenshot](https://i.postimg.cc/Gt4c3y0q/Screenshot-733.png)
 
 
 
 # Cheackout Page
 
-![App Screenshot](https://ibb.co/GkZqr1P)
+![App Screenshot](https://i.postimg.cc/V6LfThKy/Screenshot-734.png)
 
-![App Screenshot](https://ibb.co/hy2ZVtk)
+![App Screenshot](https://i.postimg.cc/8CbkZGBB/Screenshot-735.png)
 
 
 
